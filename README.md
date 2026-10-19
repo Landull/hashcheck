@@ -83,3 +83,7 @@ MD5 and SHA-1 are included because they're still common in case files, threat-in
 ## License
 
 MIT
+
+---
+
+Part of [Landull](https://github.com/Landull)'s forensics toolkit.
